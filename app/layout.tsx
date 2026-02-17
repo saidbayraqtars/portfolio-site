@@ -8,8 +8,16 @@ const spaceGrotesk = Space_Grotesk({ subsets: ["latin"] })
 const jetbrainsMono = JetBrains_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://portfolio-site-iota-teal.vercel.app"),
   title: "Said Bayraktar | Fullstack Developer",
   description: "Said Bayraktar - Modern teknolojilerle web uygulamaları geliştiren Fullstack Developer portföy sitesi",
+  openGraph: {
+    title: "Said Bayraktar | Fullstack Developer",
+    description: "Said Bayraktar - Modern teknolojilerle web uygulamaları geliştiren Fullstack Developer portföy sitesi",
+    url: "https://portfolio-site-iota-teal.vercel.app",
+    siteName: "Said Bayraktar Portfolio",
+    type: "website",
+  },
 }
 
 export default function RootLayout({

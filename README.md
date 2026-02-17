@@ -10,7 +10,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![Three.js](https://img.shields.io/badge/Three.js-3D-000000?style=for-the-badge&logo=three.js)](https://threejs.org/)
 
-[🌐 Canlı Demo](#) · [📫 İletişim](mailto:said@bayraktar.dev) · [💼 LinkedIn](https://linkedin.com/in/said-bayraktar9)
+[🌐 Canlı Demo](https://portfolio-site-iota-teal.vercel.app) · [📫 İletişim](mailto:said@bayraktar.dev) · [💼 LinkedIn](https://linkedin.com/in/said-bayraktar9)
 
 </div>
 
